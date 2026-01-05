@@ -9,3 +9,9 @@ This file is used to practice Markdown headers.
 git status
 git add .
 git commit -m "Add code example"
+
+## Task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
